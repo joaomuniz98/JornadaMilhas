@@ -6,7 +6,7 @@ XUnit é uma biblioteca dedicada à realização de testes unitários. Escolhi e
 
 Seria o ciclo de vida do teste em sí, no caso o primeiro A vem de Arrange , o segundo A de Action , e o terceiro A de Assert
 
-### o que é  Give-When-Then ?
+### O que é  Give-When-Then ?
 
 Seria na mesma logíca do AAA , com nomes diferentes podemos dizer onde  Give a fase de configuração do cenario do teste , When  fase de ação do teste , Then a fase final do teste onde teria o resultado da  ação. 
 
